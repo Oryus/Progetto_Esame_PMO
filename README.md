@@ -6,9 +6,7 @@
 ### Titolo del progetto: Gestionale Multe
 
 ### Specifica: 
-Il programma consiste in un gestionale che permette di raggruppare tutte le multe, in tempo
-reale, che un cittadino prende e il poterle pagare subito, senza dover aspettare tutte le burocrazie
-che rendono il procedimento scomodo e lento. 
-Ci sono due tipologie di uteneze: il cittadino, che come dicevamo prima ha la sua comodità nel svolgere
-queste determinate azioni, e poi il l'agente di polizia, dove avrà la possibilità di inserire e modificare
-le multe tutto da un semplice programma.
+Il progetto consiste nel realizzare un gestionale di raccolta multe, con lo scopo di rendere più veloci molti degli aspetti burocratici che circondano questo ambiente. 
+Il progetto viene realizzato con Windows Form in linguaggio C#.
+In questo progetto si avranno due tipi di utenti gli agenti di polizia e i cittadini. Il primo è colui che procederà nella scrittura delle multe, mentre il secondo si troverà tutte le multe indicizzate con la possibilità di pagarle con un click.
+
