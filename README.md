@@ -1,7 +1,9 @@
 # Progetto_Esame_PMO
-### Nome: Tommaso Pulici
+### Nome: 
+Tommaso Pulici
 
-### Titolo del progetto: Gestionale Multe
+### Titolo del progetto: 
+Gestionale Multe
 
 ### Specifica: 
 Il progetto consiste nel realizzare un gestionale di raccolta multe, con lo scopo di rendere più veloci molti degli aspetti burocratici che circondano questo ambiente. 
