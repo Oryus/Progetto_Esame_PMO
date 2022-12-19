@@ -1,8 +1,6 @@
 # Progetto_Esame_PMO
 ### Nome: Tommaso Pulici
 
-### Matricola: 302063
-
 ### Titolo del progetto: Gestionale Multe
 
 ### Specifica: 
